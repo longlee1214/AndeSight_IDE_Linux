@@ -1,2 +1,0 @@
-# AndeSight_IDE_Linux
-AndeSight_IDE_Linux
